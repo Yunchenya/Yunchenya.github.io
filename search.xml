@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<search> 
+  
+  
+    
+    <entry>
+      <title>开设minecraft服务器</title>
+      <link href="/2024/04/04/%E5%BC%80%E8%AE%BEminecraft%E6%9C%8D%E5%8A%A1%E5%99%A8/"/>
+      <url>/2024/04/04/%E5%BC%80%E8%AE%BEminecraft%E6%9C%8D%E5%8A%A1%E5%99%A8/</url>
+      
+        <content type="html"><![CDATA[<h1>前言</h1><p>其实开服是个很简单的操作，问题在于后续怎么操作，本篇就讲讲开服。</p><h2 id="准备">准备</h2><h3 id="硬件">硬件</h3><p>无论怎么样，硬件是开服最基础的事，没有硬件，就没法开服。<br>首先需要明确，我们会在什么样的操作系统</p><h3 id="一颗炽热的心">一颗炽热的心</h3><h1>环境搭建</h1>]]></content>
+      
+      
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>hexo可视化在线编辑</title>
+      <link href="/2024/04/01/hello-world/"/>
+      <url>/2024/04/01/hello-world/</url>
+      
+        <content type="html"><![CDATA[<p>虽然说是静态网站，但是没有后台真的很难受，但是谁不想要一个在线的写文章的呢，所以今天介绍这个hexo-admin</p><h2 id="安装">安装</h2><h3 id="获取hexo">获取hexo</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br></pre></td><td class="code"><pre><span class="line">npm install -g hexo</span><br><span class="line"><span class="built_in">cd</span> ~/</span><br><span class="line">hexo init my-blog</span><br><span class="line"><span class="built_in">cd</span> my-blog</span><br><span class="line">npm install</span><br></pre></td></tr></table></figure><h3 id="安装hexo-admin">安装hexo-admin</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br></pre></td><td class="code"><pre><span class="line">npm install --save hexo-admin</span><br><span class="line">hexo server -d</span><br></pre></td></tr></table></figure><h2 id="尽情享受吧">尽情享受吧</h2><p>所有工作都做完了，现在可以开始写您的第一篇文章了。</p><h3 id="打开http-localhost-4000-admin">打开<a href="http://localhost:4000/admin/">http://localhost:4000/admin/</a></h3>]]></content>
+      
+      
+      <categories>
+          
+          <category> 教程 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> hexo </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+  
+  
+</search>
